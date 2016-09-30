@@ -1,0 +1,10 @@
+C:\Users\nn137422\Documents\Visual Basic\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe.config
+C:\Users\nn137422\Documents\Visual Basic\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.Form1.resources
+C:\Users\nn137422\Documents\Visual Basic\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.Resources.resources
+C:\Users\nn137422\Documents\Visual Basic\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.vbproj.GenerateResource.Cache
+C:\Users\nn137422\Documents\Visual Basic\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe
+C:\Users\nn137422\Documents\Visual Basic\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.pdb
+C:\Users\nn137422\Documents\Visual Basic\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.xml
+C:\Users\nn137422\Documents\Visual Basic\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.exe
+C:\Users\nn137422\Documents\Visual Basic\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.xml
+C:\Users\nn137422\Documents\Visual Basic\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.pdb
